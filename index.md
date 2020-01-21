@@ -5,7 +5,7 @@
 
 ## Experience
 
-### *Unisound AI Technology Co.,Ltd, AI Labs-NMT* `2019.6 - ` <br>
+### *Unisound AI Technology Co.,Ltd, AI Labs-NMT* <br>
 
 
 <!-- ### Footer
